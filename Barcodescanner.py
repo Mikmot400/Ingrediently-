@@ -3,6 +3,7 @@ from PIL import Image
 info = pyzbar.decode(Image.open('qr-code-definition-image_0.png'))
 print(info)
 
+#testcomment
 
 import cv2
 camera = cv2.VideoCapture(1)
