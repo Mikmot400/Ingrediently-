@@ -1,4 +1,4 @@
 {
     "jupyter.jupyterServerType": "local",
-    "python.pythonPath": "/usr/local/opt/python/libexec/bin/python"
+    "python.pythonPath": "/Library/Frameworks/Python.framework/Versions/3.9/bin/python3"
 }
